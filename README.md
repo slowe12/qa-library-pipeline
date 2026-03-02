@@ -3,10 +3,10 @@
 ![Teaching](https://img.shields.io/badge/module-DE5M5-blue)
 ![Python Version](https://img.shields.io/badge/python-3.9--3.12-blue.svg)
 
-![Open Issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO)
-![Open PRs](https://img.shields.io/github/issues-pr/YOUR_USERNAME/YOUR_REPO)
-![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO)
-![CI Pipeline Badge](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci.yml/badge.svg)
+![Open Issues](https://img.shields.io/github/issues/slowe12/qa-library-pipeline)
+![Open PRs](https://img.shields.io/github/issues-pr/slowe12/qa-library-pipeline)
+![Last Commit](https://img.shields.io/github/last-commit/slowe12/qa-library-pipeline)
+![CI Pipeline Badge](https://github.com/slowe12/qa-library-pipeline/actions/workflows/ci.yml/badge.svg)
 
 <mark>*Replace `YOUR_USERNAME/YOUR_REPO` with your details*</mark>
 
@@ -25,14 +25,14 @@ See [docs/architecture/](docs/architecture/) for details.
 At a prompt copy and paste the following 2 lines:
 
 ```sh
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
+git config --global user.email "Soph@example.com"
+git config --global user.name "Soph"
 ```
 
 ### Local Development
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/slowe12/qa-library-pipeline.git
 cd YOUR_REPO
 
 # Create virtual environment
