@@ -33,7 +33,7 @@ git config --global user.name "Soph"
 ```bash
 # Clone this repository
 git clone https://github.com/slowe12/qa-library-pipeline.git
-cd YOUR_REPO
+cd slowe12/qa-library-pipeline
 
 # Create virtual environment
 python -m venv venv
